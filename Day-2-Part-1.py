@@ -7,7 +7,6 @@ def generate_arr(a):
     i = 97
     while (i != 123):
         a.append(word.count(chr(i)))
-        print (chr(i))
         i+=1
 
 with open('in2.txt') as f:
