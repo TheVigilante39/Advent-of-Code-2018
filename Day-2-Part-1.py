@@ -9,7 +9,7 @@ def generate_arr(a):
         a.append(word.count(chr(i)))
         i+=1
 
-with open('in2.txt') as f:
+with open('input.txt') as f:
     for word in f:
         c2 = 0
         c3 = 0
