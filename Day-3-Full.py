@@ -13,7 +13,7 @@ make_matrix(a)
 
 #------------------------------Part 1 Start --------------------------------
 lines = []
-with open("in3.txt") as f:
+with open("input.txt") as f:
     for line in f:
         lines.append(re.split('[@# ,:x\n,\t]', line)) #1,4,5,7,8
 
