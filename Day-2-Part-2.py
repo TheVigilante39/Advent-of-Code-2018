@@ -3,7 +3,7 @@ import os
 a = []
 b = []
 
-with open('in2.txt') as f:
+with open('input.txt') as f:
     for word in f:
         a.append(word)
 
