@@ -55,4 +55,4 @@ for guard in perminute:
 
 print(min*mr_g)
 #------------------------------Part 2 End ----------------------------------
-#Credit goes out to u/pythondevgb on reddit for being an indirect source of help
+#Credit goes out to u/pythondevgb on reddit for being an indirect source of inspiration
